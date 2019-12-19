@@ -16,4 +16,12 @@ Acquis:
   de persistance Hibernate à partir d’un projet maven, tester la connexion à la base de
   données MySQL et exécuter certaines requêtes à l'aide d'Hibernate en utilisant les
   annotations.
- 
+
+  TP4
+  Dans ce TP j'ai pu exécuter certaines requêtes à l'aide d'Hibernate traitant les différents
+  types d’associations entre deux classes.
+  Pour ce faire, J'ai eu besoin dans mon fichier pom.xml:
+  - JavaSE 8
+  - Hibernate 5
+  - Maven 4
+  - MySQL 5
